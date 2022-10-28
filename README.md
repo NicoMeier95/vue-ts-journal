@@ -1,6 +1,8 @@
 Vue-TypeScript Journal
 
 ## How to Install
+
+```sh
 npm install
 npm run dev
 ```
